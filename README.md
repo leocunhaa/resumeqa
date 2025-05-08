@@ -1,4 +1,4 @@
-# README - QA Engineer Study Repository
+# README - QA Engineer Repository
 
 ## 📌 Overview
 This repository is dedicated to my journey in learning Quality Assurance (QA) Engineering, following the comprehensive roadmap from [roadmap.sh](https://roadmap.sh). Here, I document my progress, notes, and practical exercises as I explore various QA concepts, tools, and methodologies.
@@ -34,17 +34,17 @@ This repository is dedicated to my journey in learning Quality Assurance (QA) En
 - **Backend Automation**: Karate Framework  
 
 ### 4. **CI/CD & DevOps**
-- **Version Control**: Git, GitHub, GitLab, BitBucket  
-- **CI/CD Pipelines**: Jenkins, CircleCI, Travis CI, GitLab CI, Azure DevOps  
+- **Version Control**: Git, GitHub, GitLab  
+- **CI/CD Pipelines**: Jenkins, GitLab CI, Azure DevOps  
 - **Containerization & Orchestration**: Docker, Kubernetes  
 
 ### 5. **Test Management & Reporting**
-- **Tools**: TestRail, Zephyr, Jira  
-- **Reporting**: JUnit, Allure  
+- **Tools**: Taiga, Jira  
+- **Reporting**: JUnit  
 
 ### 6. **Additional Topics**
 - **Web Technologies**: HTML, CSS, JavaScript, CSR vs SSR  
-- **Security**: Secrets Management, Authentication/Authorization  
+- **Security**: Secrets Management, Authentication/Authorization, SQL Injection  
 - **Modern Apps**: PWAs, Responsive vs Adaptive Design  
 
 ---
@@ -55,20 +55,15 @@ This repository is dedicated to my journey in learning Quality Assurance (QA) En
 | Testing Frameworks| Selenium, Cypress, JUnit |
 | CI/CD             | Jenkins, GitHub Actions |
 | API Testing       | Postman, Swagger |
-| Performance       | JMeter |
+| Performance       | JMeter, Gatling |
 | Security          | OWASP ZAP, Burp Suite |
 
 ---
 
 ## 📚 Resources
 - [roadmap.sh QA Roadmap](https://roadmap.sh/qa)  
-- Books: "The Art of Software Testing" by Glenford Myers  
-- Courses: Udemy QA Automation, Coursera Software Testing  
-
----
-
-## 🔄 How to Contribute
-Feel free to fork this repository, suggest improvements, or share your own QA learning resources. Open an issue or submit a PR!
+- Books: "The Art of Software Testing" by Glenford Myers and Corey Sandler  
+- Courses: Udemy and Coursera  
 
 ---
 
